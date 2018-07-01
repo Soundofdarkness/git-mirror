@@ -1,0 +1,9 @@
+{
+    "timeout": "time in seconds for timeout",
+    "repositories": [
+        {
+            "name": "repository name",
+            "url": "git url for repository"
+        }
+    ]
+}

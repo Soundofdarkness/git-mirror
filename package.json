@@ -1,0 +1,22 @@
+{
+  "name": "git-mirror",
+  "version": "1.0.0",
+  "description": "Mirror System for Git Repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "SET DEBUG=* && node ./index.js"
+  },
+  "keywords": [
+    "Git",
+    "Mirror",
+    "Self-Hosted"
+  ],
+  "author": "Laurelianae (Soundofdarkness)",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "mkdirp": "^0.5.1",
+    "nodegit": "^0.22.1"
+  }
+}
