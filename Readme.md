@@ -13,7 +13,7 @@ Timeout is set in seconds.
 
 # Author
 
-Laurelianae(Soundofdarkness)[elerianae@gmail.com]
+Laurelianae(Soundofdarkness)
 
 
 # License
